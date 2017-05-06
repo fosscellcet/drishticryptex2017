@@ -44,7 +44,8 @@ background-color: #0a0c19;
   body#colored{
     background-image: url("../images/image-bg.jpg");
     background-attachment: fixed;
-    background-size: 100vw;
+    background-size: cover;
+    background-repeat: no-repeat;
   }
 
   site-overlay{

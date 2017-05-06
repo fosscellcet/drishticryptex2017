@@ -3,7 +3,7 @@
 <div id="footer" class="mastfoot">
   <div id="footercol" class="col-md-12" style="margin-top: 11px;">
   <div id="footerinner" class="inner">
-    <p style="display: inline;">Proudly powered by FOSS CELL CET. </p><p style="display: inline;"><a href="https://cryptex.drishticet.org/privacypolicy.htm">Privacy Policy</a></p>
+    <p style="display: inline;">Proudly powered by FOSS CELL CET. </p><p style="display: inline;"><a href="https://cryptex.drishticet.org/privacypolicy.htm">Privacy Policy</a></p><p style="display: inline;">.</p>
   </div>
 </div>
 </div>

@@ -40,7 +40,7 @@
       </div></a>
     <div class="mastfoot">
       <div class="inner">
-        <p style="display: inline;">Supports login using Facebook and Google accounts. Proudly powered by FOSS CELL CET. </p><p style="display: inline;"><a href="https://cryptex.drishticet.org/privacypolicy.htm">Privacy Policy</a></p>
+        <p style="display: inline;">Supports login using Facebook and Google accounts. Proudly powered by FOSS CELL CET. </p><p style="display: inline;"><a href="https://cryptex.drishticet.org/privacypolicy.htm">Privacy Policy</a></p><p style="display: inline;">.</p>
       </div>
     </div>
 
