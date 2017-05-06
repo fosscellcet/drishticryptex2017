@@ -8,7 +8,7 @@ See contributors.md file for list of contributors.
 
 ### Current Issues:
 
-Facebook login currently not supported sue to change in Facebook Graph API version change. Needs update in code.
+Facebook login currently not supported due to change in Facebook Graph API version change. Needs update in code.
 
 See:
 
